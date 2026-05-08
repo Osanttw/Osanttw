@@ -7,11 +7,32 @@ KERNEL: Studying Programming and Technology
 SHELL: Learning Shell Scripting
 UPTIME: Student @ SENAI Suíço-Brasileiroo
 IDE: IntelliJ
-LANGS: Python, Java, C, HTML/CSS
+LANGS:Java, C, HTML/CSS
 FUTURE: Sucess is my only option. 
 ```
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
+
+
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/osantt.w/)
+
+<h3 align="left">My Stack </h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+
+ 
+</div>
+
+
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Osanttw&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
@@ -30,9 +51,6 @@ FUTURE: Sucess is my only option.
 
 *† If you focus on the leaf, you miss the tree. If you focus on the tree, you miss the forest †*
 
-</div>
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
 
 
 <picture align="center">
