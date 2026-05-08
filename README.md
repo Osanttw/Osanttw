@@ -40,7 +40,7 @@ FUTURE: Sucess is my only option.
 | Category | Tools |
 | :--- | :--- |
 | **Languages** |`Java`, `C#`, `C++`, `HTML/CSS`,|
-| **Editors** | `NeoVim` (for the soul), `VSCode`, `IntelliJ` |
+| **Editors** |`VSCode`, `IntelliJ` |
 | **OS** | `Arch Linux` |
 | **VCS** | `Git` |
 
