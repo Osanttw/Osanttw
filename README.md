@@ -1,3 +1,21 @@
+
+  <div align="center">
+  <img width="100%" alt="download" src="https://github.com/user-attachments/assets/d624f2b5-0378-4c1a-8496-fb9b04081518" />
+</div>
+
+
+<div align="center">
+
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
+
+
+</div>
+
+---
+
+### 👤 Profile:
+
 <img align="right" width="250"  alt="icon" src="https://github.com/user-attachments/assets/82f1d345-d4ca-4d6c-803b-b7d562170cef" />
 
 ```
@@ -8,12 +26,28 @@ SHELL: Learning Shell Scripting
 UPTIME: Student @ SENAI Suíço-Brasileiroo
 IDE: IntelliJ
 LANGS:Java, C, HTML/CSS
-FUTURE: Sucess is my only option. 
+FUTURE: Sucess is my only option.
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+<p align="center">
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** |`Java`, `C#`, `C++`, `HTML/CSS`,|
+| **Editors** | `NeoVim` (for the soul), `VSCode`, `IntelliJ` |
+| **OS** | `Arch Linux` |
+| **VCS** | `Git` |
+
+</p>
 
 
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/osantt.w/)
 
@@ -33,20 +67,17 @@ FUTURE: Sucess is my only option.
  
 </div>
 
-
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Osanttw&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
 </div>
-
-<br clear="right"/>
 
 ---
 
 <div align="center">
-  <img width="100%" alt="download" src="https://github.com/user-attachments/assets/d624f2b5-0378-4c1a-8496-fb9b04081518" />
+  <img src="https://streak-stats.demolab.com?user=Osanttw&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
 </div>
 
+
+---
+<p>
 
 <div align="center">
 
@@ -68,15 +99,6 @@ FUTURE: Sucess is my only option.
 </div>
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=24&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
-</div>
-
-###
-
-
-
 
 
 
