@@ -1,5 +1,4 @@
-<img align="right" width="325" alt="Berserk" src="https://github.com/user-attachments/assets/c41a940e-bbfa-4546-be0d-e73d3cb347d9" />
-
+<img align="right" width="250"  alt="icon" src="https://github.com/user-attachments/assets/82f1d345-d4ca-4d6c-803b-b7d562170cef" />
 
 ```
 Osanttw@agent
