@@ -19,7 +19,7 @@
 <img align="right" width="250"  alt="icon" src="https://github.com/user-attachments/assets/82f1d345-d4ca-4d6c-803b-b7d562170cef" />
 
 ```
-Osanttw@agent
+Osanttw
 OS: Windows 11
 KERNEL: Studying Programming and Technology
 SHELL: Learning Shell Scripting
