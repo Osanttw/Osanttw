@@ -31,7 +31,8 @@ FUTURE: Sucess is my only option.
 *† If you focus on the leaf, you miss the tree. If you focus on the tree, you miss the forest †*
 
 </div>
-
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
 
 
 <picture align="center">
