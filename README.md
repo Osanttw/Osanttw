@@ -1,116 +1,69 @@
-
-  <div align="center">
-  <img width="100%" alt="download" src="https://github.com/user-attachments/assets/d624f2b5-0378-4c1a-8496-fb9b04081518" />
-</div>
-
-
 <div align="center">
 
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
+<img width="100%" alt="banner" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIHZpZXdCb3g9IjAgMCAxMjgwIDcyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGIwYjEyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTUlIiBzdG9wLWNvbG9yPSIjMTcwYTFmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBiMGIxMiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSJoYWxmdG9uZSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjIuNiIgZmlsbD0iI2ZmMWQzYyIgb3BhY2l0eT0iMC4zNSIvPgogICAgPC9wYXR0ZXJuPgogICAgPHBhdHRlcm4gaWQ9IndlYiIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8cGF0aCBkPSJNMCwwIEwxMjAsMTIwIE0xMjAsMCBMMCwxMjAgTTYwLDAgTDYwLDEyMCBNMCw2MCBMMTIwLDYwIgogICAgICAgICAgICBzdHJva2U9IiMzZmJmZmYiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjE4Ii8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNjAiIHI9IjU1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzZmJmZmYiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjEyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNjAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMzZmJmZmYiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjEyIi8+CiAgICA8L3BhdHRlcm4+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNSIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYiIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjEyODAiIGhlaWdodD0iNzIwIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxyZWN0IHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjcyMCIgZmlsbD0idXJsKCN3ZWIpIi8+CiAgPHJlY3Qgd2lkdGg9IjEyODAiIGhlaWdodD0iNzIwIiBmaWxsPSJ1cmwoI2hhbGZ0b25lKSIvPgoKICA8IS0tIHJlc3BpbmdvcyBkZSBzcHJheSAtLT4KICA8ZyBmaWxsPSIjZmYxZDNjIiBvcGFjaXR5PSIwLjciPgogICAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iNjAwIiByPSI0Ii8+CiAgICA8Y2lyY2xlIGN4PSIxNTAiIGN5PSI2NDAiIHI9IjciLz4KICAgIDxjaXJjbGUgY3g9Ijk1IiBjeT0iNjU1IiByPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSIxMTgwIiBjeT0iOTAiIHI9IjUiLz4KICAgIDxjaXJjbGUgY3g9IjExNTAiIGN5PSI2MCIgcj0iMyIvPgogIDwvZz4KICA8ZyBmaWxsPSIjM2ZiZmZmIiBvcGFjaXR5PSIwLjYiPgogICAgPGNpcmNsZSBjeD0iMTIwMCIgY3k9IjY0MCIgcj0iNiIvPgogICAgPGNpcmNsZSBjeD0iMTE2MCIgY3k9IjY3MCIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iNjAiIGN5PSI4MCIgcj0iNSIvPgogIDwvZz4KCiAgPCEtLSBnbGl0Y2ggY3JvbWF0aWNvIGF0cmFzIGRvIHRpdHVsbyAtLT4KICA8dGV4dCB4PSI4MCIgeT0iMTUwIiBmb250LWZhbWlseT0iQXJpYWwgQmxhY2ssIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkwIiBmb250LXdlaWdodD0iOTAwIgogICAgICAgIGZpbGw9IiNmZjFkM2MiIG9wYWNpdHk9IjAuNSIgbGV0dGVyLXNwYWNpbmc9IjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYsMCkiPk9TQU5UVFc8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjE1MCIgZm9udC1mYW1pbHk9IkFyaWFsIEJsYWNrLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5MCIgZm9udC13ZWlnaHQ9IjkwMCIKICAgICAgICBmaWxsPSIjM2ZiZmZmIiBvcGFjaXR5PSIwLjUiIGxldHRlci1zcGFjaW5nPSIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNiwwKSI+T1NBTlRUVzwvdGV4dD4KICA8dGV4dCB4PSI4MCIgeT0iMTUwIiBmb250LWZhbWlseT0iQXJpYWwgQmxhY2ssIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkwIiBmb250LXdlaWdodD0iOTAwIgogICAgICAgIGZpbGw9IiNmZmZmZmYiIGxldHRlci1zcGFjaW5nPSIyIj5PU0FOVFRXPC90ZXh0PgoKICA8IS0tIGZhaXhhIGdyYWZpdGUgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODAsMTc1KSI+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsMCA1NjAsMCA1NDAsMzQgMjAsMzQiIGZpbGw9IiNmZjFkM2MiLz4KICAgIDx0ZXh0IHg9IjE0IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIgogICAgICAgICAgZmlsbD0iIzBiMGIxMiIgbGV0dGVyLXNwYWNpbmc9IjQiPkZVTEwgU1RBQ0sgREVWRUxPUEVSIC8vIEJSQVpJTDwvdGV4dD4KICA8L2c+CgogIDwhLS0gdGVpYSBkZWNvcmF0aXZhIGNhbnRvIC0tPgogIDxnIHN0cm9rZT0iIzNmYmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjQiIG9wYWNpdHk9IjAuNTUiIGZpbGw9Im5vbmUiPgogICAgPHBhdGggZD0iTTAsMCBRNjAsNjAgMCwxNDAiLz4KICAgIDxwYXRoIGQ9Ik0wLDAgUTYwLDYwIDE0MCwwIi8+CiAgICA8cGF0aCBkPSJNMCwwIEwxNDAsMTQwIi8+CiAgICA8cGF0aCBkPSJNMCwwIEwwLDE0MCIvPgogICAgPHBhdGggZD0iTTAsMCBMMTQwLDAiLz4KICAgIDxwYXRoIGQ9Ik0wLDIwIFEzMCw1MCAyMCw5MCIvPgogICAgPHBhdGggZD0iTTIwLDAgUTUwLDMwIDkwLDIwIi8+CiAgPC9nPgoKICA8IS0tIHNpbGh1ZXRhIGFic3RyYXRhIGdlbmVyaWNhIChzZW0gc2VyIG8gcGVyc29uYWdlbSkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTA1MCw0MzApIiBvcGFjaXR5PSIwLjkiPgogICAgPHBvbHlnb24gcG9pbnRzPSIwLC0xNjAgNDAsLTQwIDE2MCwwIDQwLDQwIDAsMTYwIC00MCw0MCAtMTYwLDAgLTQwLC00MCIKICAgICAgICAgICAgICBmaWxsPSJub25lIiBzdHJva2U9IiNmZjFkM2MiIHN0cm9rZS13aWR0aD0iMyIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGZyb209IjAgMCAwIiB0bz0iMzYwIDAgMCIgZHVyPSIyNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3BvbHlnb24+CiAgICA8Y2lyY2xlIHI9IjE0IiBmaWxsPSIjZmZmZmZmIi8+CiAgPC9nPgoKICA8IS0tIGxpc3RhIHRpcG8gbWVudSwgZXN0aWxvIGdyYWZpdGUgLS0+CiAgPGcgdHJhbnNmb3JtPSJza2V3WCgtMTApIiBmb250LWZhbWlseT0iQXJpYWwgQmxhY2ssIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiPgogICAgPHRleHQgeD0iMTIwIiB5PSIzMzAiIGZvbnQtc2l6ZT0iMzAiIGZpbGw9IiMzZmJmZmYiIG9wYWNpdHk9IjAuODUiPlNLSUxMUzwvdGV4dD4KCiAgICA8Zz4KICAgICAgPHBvbHlnb24gcG9pbnRzPSI5MCwzNDAgNDAwLDM0MCAzNzAsNDEwIDYwLDQxMCIgZmlsbD0iI2ZmMWQzYyIgb3BhY2l0eT0iMC45NSIvPgogICAgICA8dGV4dCB4PSI5MCIgeT0iMzk4IiBmb250LXNpemU9IjYwIiBmaWxsPSIjZmZmZmZmIj5QUk9KRUNUUzwvdGV4dD4KICAgIDwvZz4KCiAgICA8dGV4dCB4PSI5MCIgeT0iNDUwIiBmb250LXNpemU9IjQyIiBmaWxsPSIjZmZmZmZmIj5TVEFDSzwvdGV4dD4KICAgIDx0ZXh0IHg9IjkwIiB5PSI0OTUiIGZvbnQtc2l6ZT0iNDAiIGZpbGw9IiNmZmZmZmYiPkFCT1VUIE1FPC90ZXh0PgogICAgPHRleHQgeD0iMTEwIiB5PSI1MzAiIGZvbnQtc2l6ZT0iMjYiIGZpbGw9IiMzZmJmZmYiPgogICAgICBTVEFUUwogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJmaWxsIiB2YWx1ZXM9IiMzZmJmZmY7I2ZmZmZmZjsjM2ZiZmZmIiBkdXI9IjEuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSI5MCIgeT0iNTY1IiBmb250LXNpemU9IjI0IiBmaWxsPSIjOGZkY2ZmIj5FWFBFUklFTkNFPC90ZXh0PgogICAgPHRleHQgeD0iOTAiIHk9IjU5OCIgZm9udC1zaXplPSIyNiIgZmlsbD0iIzhmZGNmZiI+U09DSUFMIExJTks8L3RleHQ+CiAgICA8dGV4dCB4PSI5MCIgeT0iNjMxIiBmb250LXNpemU9IjI2IiBmaWxsPSIjOGZkY2ZmIj5DT05UQUNUPC90ZXh0PgogIDwvZz4KCiAgPCEtLSByaXNjbyBkZSByYXNnby9ncmFmZml0aSBubyByb2RhcGUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iNjkwIiB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI2IiBmaWxsPSIjZmYxZDNjIiBvcGFjaXR5PSIwLjgiLz4KICA8cmVjdCB4PSIwIiB5PSI3MDAiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjMiIGZpbGw9IiMzZmJmZmYiIG9wYWNpdHk9IjAuOCIvPgo8L3N2Zz4K" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=FF1D3C&width=650&lines=Anyone+can+wear+the+mask.;In+search+of+peace.;Success+is+my+only+option." alt="Typing SVG" /></a>
 
 </div>
 
----
+<img width="100%" alt="divider" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyODAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMCA2MCwyMCA4MCw4IDE0MCwzMiAyMDAsMTQgMjYwLDI2IDMyMCwxMCAzODAsMzAgNDQwLDE2IDUwMCwyNCA1NjAsMTIKICAgICAgICAgICAgICAgICAgICAgNjIwLDI4IDY4MCwxOCA3NDAsMjIgODAwLDE0IDg2MCwyNiA5MjAsMTggOTgwLDIyIDEwNDAsMTYgMTEwMCwyNCAxMTYwLDE4IDEyMjAsMjAgMTI4MCwyMCIKICAgICAgICAgICAgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYxZDNjIiBzdHJva2Utd2lkdGg9IjIuNCIgb3BhY2l0eT0iMC45Ii8+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMiA2MCwyMiA4MCwxMCAxNDAsMzQgMjAwLDE2IDI2MCwyOCAzMjAsMTIgMzgwLDMyIDQ0MCwxOCA1MDAsMjYgNTYwLDE0CiAgICAgICAgICAgICAgICAgICAgIDYyMCwzMCA2ODAsMjAgNzQwLDI0IDgwMCwxNiA4NjAsMjggOTIwLDIwIDk4MCwyNCAxMDQwLDE4IDExMDAsMjYgMTE2MCwyMCAxMjIwLDIyIDEyODAsMjIiCiAgICAgICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzNmYmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjQiIG9wYWNpdHk9IjAuNyIvPgo8L3N2Zz4K" />
 
-### 👤 Profile:
+### 👤 Profile
 
-<img align="right" width="250"  alt="icon" src="https://github.com/user-attachments/assets/82f1d345-d4ca-4d6c-803b-b7d562170cef" />
+<img align="right" width="250" alt="icon" src="https://github.com/user-attachments/assets/82f1d345-d4ca-4d6c-803b-b7d562170cef" />
 
 ```
 Osanttw
 OS: Windows 11
 KERNEL: Studying Programming and Technology
 SHELL: Learning Shell Scripting
-UPTIME: Student @ SENAI Suíço-Brasileiroo
+UPTIME: Student @ SENAI Suíço-Brasileiro
 IDE: IntelliJ
-LANGS:Java, C, HTML/CSS
-FUTURE: Sucess is my only option.
+LANGS: Java, C, HTML/CSS
+FUTURE: Success is my only option.
 ```
-
 
 <br clear="right"/>
 
----
+<img width="100%" alt="divider" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyODAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMCA2MCwyMCA4MCw4IDE0MCwzMiAyMDAsMTQgMjYwLDI2IDMyMCwxMCAzODAsMzAgNDQwLDE2IDUwMCwyNCA1NjAsMTIKICAgICAgICAgICAgICAgICAgICAgNjIwLDI4IDY4MCwxOCA3NDAsMjIgODAwLDE0IDg2MCwyNiA5MjAsMTggOTgwLDIyIDEwNDAsMTYgMTEwMCwyNCAxMTYwLDE4IDEyMjAsMjAgMTI4MCwyMCIKICAgICAgICAgICAgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYxZDNjIiBzdHJva2Utd2lkdGg9IjIuNCIgb3BhY2l0eT0iMC45Ii8+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMiA2MCwyMiA4MCwxMCAxNDAsMzQgMjAwLDE2IDI2MCwyOCAzMjAsMTIgMzgwLDMyIDQ0MCwxOCA1MDAsMjYgNTYwLDE0CiAgICAgICAgICAgICAgICAgICAgIDYyMCwzMCA2ODAsMjAgNzQwLDI0IDgwMCwxNiA4NjAsMjggOTIwLDIwIDk4MCwyNCAxMDQwLDE4IDExMDAsMjYgMTE2MCwyMCAxMjIwLDIyIDEyODAsMjIiCiAgICAgICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzNmYmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjQiIG9wYWNpdHk9IjAuNyIvPgo8L3N2Zz4K" />
 
-### Tech Stack
-<p align="center">
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** |`Java`, `C#`, `C++`, `HTML/CSS`,|
-| **Editors** |`VSCode`, `IntelliJ` |
-| **OS** | `Arch Linux` |
-| **VCS** | `Git` |
-
-</p>
-
+### 🕸️ Tech Stack
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/osantt.w/)
+![Java](https://img.shields.io/badge/Java-0b0b12?style=for-the-badge&logo=openjdk&logoColor=FF1D3C)
+![C#](https://img.shields.io/badge/C%23-0b0b12?style=for-the-badge&logo=csharp&logoColor=3FBFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-0b0b12?style=for-the-badge&logo=cplusplus&logoColor=FF1D3C)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0b0b12?style=for-the-badge&logo=html5&logoColor=3FBFFF)
+![VSCode](https://img.shields.io/badge/VSCode-0b0b12?style=for-the-badge&logo=visualstudiocode&logoColor=FF1D3C)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0b0b12?style=for-the-badge&logo=intellijidea&logoColor=3FBFFF)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0b0b12?style=for-the-badge&logo=archlinux&logoColor=FF1D3C)
+![Git](https://img.shields.io/badge/Git-0b0b12?style=for-the-badge&logo=git&logoColor=3FBFFF)
 
-<h3 align="left">My Stack </h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="25" alt="intellij logo"  />
-  <img width="8" />
- 
-</div>
+[![Instagram](https://img.shields.io/badge/-Instagram-0b0b12?style=for-the-badge&logo=instagram&logoColor=FF1D3C)](https://www.instagram.com/osantt.w/)
 
 </div>
 
----
+<img width="100%" alt="divider" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyODAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMCA2MCwyMCA4MCw4IDE0MCwzMiAyMDAsMTQgMjYwLDI2IDMyMCwxMCAzODAsMzAgNDQwLDE2IDUwMCwyNCA1NjAsMTIKICAgICAgICAgICAgICAgICAgICAgNjIwLDI4IDY4MCwxOCA3NDAsMjIgODAwLDE0IDg2MCwyNiA5MjAsMTggOTgwLDIyIDEwNDAsMTYgMTEwMCwyNCAxMTYwLDE4IDEyMjAsMjAgMTI4MCwyMCIKICAgICAgICAgICAgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYxZDNjIiBzdHJva2Utd2lkdGg9IjIuNCIgb3BhY2l0eT0iMC45Ii8+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMiA2MCwyMiA4MCwxMCAxNDAsMzQgMjAwLDE2IDI2MCwyOCAzMjAsMTIgMzgwLDMyIDQ0MCwxOCA1MDAsMjYgNTYwLDE0CiAgICAgICAgICAgICAgICAgICAgIDYyMCwzMCA2ODAsMjAgNzQwLDI0IDgwMCwxNiA4NjAsMjggOTIwLDIwIDk4MCwyNCAxMDQwLDE4IDExMDAsMjYgMTE2MCwyMCAxMjIwLDIyIDEyODAsMjIiCiAgICAgICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzNmYmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjQiIG9wYWNpdHk9IjAuNyIvPgo8L3N2Zz4K" />
+
+### 📊 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Osanttw&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Osanttw&locale=en&mode=daily&hide_border=true&border_radius=9&background=0B0B12&ring=FF1D3C&fire=FF1D3C&currStreakLabel=FF1D3C&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=3FBFFF&dates=8FDCFF&stroke=3FBFFF" height="150" />
 </div>
 
-
----
-<p>
+<img width="100%" alt="divider" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyODAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMCA2MCwyMCA4MCw4IDE0MCwzMiAyMDAsMTQgMjYwLDI2IDMyMCwxMCAzODAsMzAgNDQwLDE2IDUwMCwyNCA1NjAsMTIKICAgICAgICAgICAgICAgICAgICAgNjIwLDI4IDY4MCwxOCA3NDAsMjIgODAwLDE0IDg2MCwyNiA5MjAsMTggOTgwLDIyIDEwNDAsMTYgMTEwMCwyNCAxMTYwLDE4IDEyMjAsMjAgMTI4MCwyMCIKICAgICAgICAgICAgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYxZDNjIiBzdHJva2Utd2lkdGg9IjIuNCIgb3BhY2l0eT0iMC45Ii8+CiAgPHBvbHlsaW5lIHBvaW50cz0iMCwyMiA2MCwyMiA4MCwxMCAxNDAsMzQgMjAwLDE2IDI2MCwyOCAzMjAsMTIgMzgwLDMyIDQ0MCwxOCA1MDAsMjYgNTYwLDE0CiAgICAgICAgICAgICAgICAgICAgIDYyMCwzMCA2ODAsMjAgNzQwLDI0IDgwMCwxNiA4NjAsMjggOTIwLDIwIDk4MCwyNCAxMDQwLDE4IDExMDAsMjYgMTE2MCwyMCAxMjIwLDIyIDEyODAsMjIiCiAgICAgICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzNmYmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjQiIG9wYWNpdHk9IjAuNyIvPgo8L3N2Zz4K" />
 
 <div align="center">
 
 *† If you focus on the leaf, you miss the tree. If you focus on the tree, you miss the forest †*
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osanttw/Osanttw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osanttw/Osanttw/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Osanttw/Osanttw/output/github-contribution-grid-snake.svg">
 </picture>
+
 <br><br>
 
-<br clear="both">
-
 </div>
-
-###
-
-
-
-<!--
-**Osanttw/Osanttw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
