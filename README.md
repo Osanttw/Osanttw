@@ -59,9 +59,7 @@ FUTURE: Success is my only option.
 </div>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Osanttw&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
-</div>
+
 
 <p>
 <div align="center">
