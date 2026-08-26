@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
-  <img src="https://i.pinimg.com/originals/77/c2/8a/77c28a614ebc2a7e26b811c41ce3deb6.gif" width="100%">
-</p>
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/d2a4ba8f-8649-460b-b5cf-68c86c39b4c7"/>
+
   
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
@@ -17,7 +17,7 @@ https://br.pinterest.com/pin/673921531777047696/   https://br.pinterest.com/pin/
 
 
 
-🕸️ Profile:
+Profile:
 
 <table>
 <tr>
@@ -38,26 +38,16 @@ FUTURE: Success is my only option.
 
 </td>
 <td valign="middle" width="220">
-<img height="200" alt="miles-morales-shameik-moore" src="https://github.com/user-attachments/assets/2a6cffdb-f9b2-4e7c-b0bb-3b9d65f60647" />
+<img height="200" alt="<img width="219"alt="ac603cc22754576666e96a65bd756606" src="https://github.com/user-attachments/assets/4cf618f6-14a6-4454-8732-2ec9a18a2572"/>
 </td>
 </tr>
 </table>
 
-⚡ Tech Stack
-```csharp
-| Category | Tools |
-| :--- | :--- |
-| **Languages** |Java, C#, C++, HTML/CSS,|
-| **Editors** |VSCode, IntelliJ |
-| **OS** | Arch Linux |
-| **VCS** | Git |
-```
 <div align="center">
-    <p>
-        <img src="https://count.getloli.com/@Osanttw?name=Osanttw&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="Osanttw">
-    </p>
+<h3>🧬 Technologies</h3>
+</div>
 <div align="center">
-
+  
 ![Java](https://img.shields.io/badge/Java-0b0b12?style=for-the-badge&logo=openjdk&logoColor=FF1D3C)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0b0b12?style=for-the-badge&logo=html5&logoColor=3FBFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-0b0b12?style=for-the-badge&logo=visualstudiocode&logoColor=FF1D3C)
@@ -65,6 +55,16 @@ FUTURE: Success is my only option.
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0b0b12?style=for-the-badge&logo=archlinux&logoColor=FF1D3C)
 ![Git](https://img.shields.io/badge/Git-0b0b12?style=for-the-badge&logo=git&logoColor=3FBFFF)
 [![Instagram](https://img.shields.io/badge/-Instagram-0b0b12?style=for-the-badge&logo=instagram&logoColor=FF1D3C)](https://www.instagram.com/ozano.w/)
+</div>
+<div align="center">
+
+
+
+<div align="center">
+    <p>
+        <img src="https://count.getloli.com/@Osanttw?name=Osanttw&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="Osanttw">
+    </p>
+
 
 </div>
 </div>
@@ -82,6 +82,11 @@ FUTURE: Success is my only option.
 <br><br>
 <br clear="both">
 </div>
+
+<p align="center">
+  <i>"I am not afraid of being alone."</i>
+</p>
+
 <!--
 **Osanttw/Osanttw** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
