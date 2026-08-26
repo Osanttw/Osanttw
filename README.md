@@ -1,11 +1,21 @@
-
 <div align="center">
-<img width="750" height="350" alt="200" src="https://github.com/user-attachments/assets/9afbde43-5b28-4bcf-b90d-88e8b15a4468" />
-</div>
-<div align="center">
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/77/c2/8a/77c28a614ebc2a7e26b811c41ce3deb6.gif" width="100%">
+</p>
+  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
 </div>
+
+
+
+<!-- https://i.pinimg.com/736x/c9/9d/6a/c99d6aadd1404c0e4306f65fb0373343.jpg     ricardo     https://br.pinterest.com/pin/539587599129546668/ 
+https://br.pinterest.com/pin/673921531777047696/   https://br.pinterest.com/pin/659144095489837624/
+-->
+<!--https://br.pinterest.com/pin/11399805459655318/     pietro  -->
+
+
+
 
 🕸️ Profile:
 
