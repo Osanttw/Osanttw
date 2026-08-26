@@ -3,75 +3,58 @@
   <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/d2a4ba8f-8649-460b-b5cf-68c86c39b4c7"/>
 
   
-
+<p align="center">
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C3C3C3DA&width=650&lines=In+this+world...+is+some+destiny+of+mankind+actually+controlling+our+lives%3F;You+have+no+enemies.+No+one+has+any+enemies.+There's+no+one+who+it's+okay+to+hurt" alt="Typing SVG" /></a>
 </div>
 
 
+<div align="center">
 
-<!-- https://i.pinimg.com/736x/c9/9d/6a/c99d6aadd1404c0e4306f65fb0373343.jpg     ricardo     https://br.pinterest.com/pin/539587599129546668/ 
-https://br.pinterest.com/pin/673921531777047696/   https://br.pinterest.com/pin/659144095489837624/
--->
-<!--https://br.pinterest.com/pin/11399805459655318/     pietro  -->
+</div>
 
 
+<p align="left">
+  <img src="https://i.pinimg.com/736x/6c/99/11/6c99110ae76337df47961d77edbc5573.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
+  <p><b>Student taking a technical course</b></p>
+ Currently, I am focusing my studies on <b>Java </b>, relational databases such as <b> MySQL</b>, and backend architecture.  
+  I am exploring how to build scalable and resilient systems, from application structure to data management.<br><br>
 
+  I have been applying this knowledge in personal projects, developing applications that involve back-end services, database integration.<br><br>
 
-Profile:
+<div align="center">
 
-<table>
-<tr>
-<td valign="middle">
+<img src="https://count.getloli.com/@Osanttw?name=Osanttw&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="Osanttw">
 
-```csharp
-------------------------------------------------------------
-Osanttw
-OS: Windows 11
-KERNEL: Studying Programming and Technology
-SHELL: Learning Shell Scripting
-UPTIME: Student @ SENAI Suíço-Brasileiro
-IDE: IntelliJ
-LANGS: Java, C, HTML/CSS
-FUTURE: Success is my only option.
-------------------------------------------------------------
-```
+</div>
+</div>
 
-</td>
-<td valign="middle" width="220">
-<img height="200" alt="<img width="219"alt="ac603cc22754576666e96a65bd756606" src="https://github.com/user-attachments/assets/4cf618f6-14a6-4454-8732-2ec9a18a2572"/>
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <div align="center">
 <h3>🧬 Technologies</h3>
 </div>
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-0b0b12?style=for-the-badge&logo=openjdk&logoColor=FF1D3C)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0b0b12?style=for-the-badge&logo=html5&logoColor=3FBFFF)
-![VSCode](https://img.shields.io/badge/VSCode-0b0b12?style=for-the-badge&logo=visualstudiocode&logoColor=FF1D3C)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0b0b12?style=for-the-badge&logo=intellijidea&logoColor=3FBFFF)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0b0b12?style=for-the-badge&logo=archlinux&logoColor=FF1D3C)
-![Git](https://img.shields.io/badge/Git-0b0b12?style=for-the-badge&logo=git&logoColor=3FBFFF)
-[![Instagram](https://img.shields.io/badge/-Instagram-0b0b12?style=for-the-badge&logo=instagram&logoColor=FF1D3C)](https://www.instagram.com/ozano.w/)
-</div>
-<div align="center">
 
-
+---
 
 <div align="center">
-    <p>
-        <img src="https://count.getloli.com/@Osanttw?name=Osanttw&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="Osanttw">
-    </p>
 
-
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=58A6FF)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=58A6FF)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF)](https://www.instagram.com/ozano.w/)
 </div>
+
+<br>
+
+<div align="center">
+<h3>📊 Statistics</h3>
 </div>
 
+---
 
-
-<p>
 <div align="center">
 
   <picture align="center">
@@ -83,19 +66,14 @@ FUTURE: Success is my only option.
 <br clear="both">
 </div>
 
+<br>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5f/7b/2e/5f7b2ecbcb8cbbfa3e0c6a7f3b7c6b8f.gif" width="200"/>
+</p>
+
 <p align="center">
   <i>"I am not afraid of being alone."</i>
 </p>
-
-<!--
-**Osanttw/Osanttw** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
